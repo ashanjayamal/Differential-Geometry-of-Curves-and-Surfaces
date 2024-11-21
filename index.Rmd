@@ -1,0 +1,70 @@
+--- 
+title: "Do Carmo - Differential Geometry of Curves and Surfaces"
+author: "Ashan J"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a Do Carmo - Differential Geometry of Curves and Surfaces
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Introduction
+
+
+![](fig/Diff-Ch1/fig (1).png)
+![](fig/Diff-Ch1/fig (2).png)
+![](fig/Diff-Ch1/fig (3).png)
+![](fig/Diff-Ch1/fig (4).png)
+![](fig/Diff-Ch1/fig (5).png)
+![](fig/Diff-Ch1/fig (6).png)
+![](fig/Diff-Ch1/fig (7).png)
+![](fig/Diff-Ch1/fig (8).png)
+![](fig/Diff-Ch1/fig (9).png)
+![](fig/Diff-Ch1/fig (10).png)
+![](fig/Diff-Ch1/fig (11).png)
+![](fig/Diff-Ch1/fig (12).png)
+![](fig/Diff-Ch1/fig (13).png)
+![](fig/Diff-Ch1/fig (14).png)
+![](fig/Diff-Ch1/fig (15).png)
+![](fig/Diff-Ch1/fig (16).png)
+![](fig/Diff-Ch1/fig (17).png)
+![](fig/Diff-Ch1/fig (18).png)
+![](fig/Diff-Ch1/fig (19).png)
+![](fig/Diff-Ch1/fig (20).png)
+![](fig/Diff-Ch1/fig (21).png)
+![](fig/Diff-Ch1/fig (22).png)
+![](fig/Diff-Ch1/fig (23).png)
+![](fig/Diff-Ch1/fig (24).png)
+![](fig/Diff-Ch1/fig (25).png)
+![](fig/Diff-Ch1/fig (26).png)
+![](fig/Diff-Ch1/fig (27).png)
+![](fig/Diff-Ch1/fig (28).png)
+![](fig/Diff-Ch1/fig (29).png)
+![](fig/Diff-Ch1/fig (30).png)
+![](fig/Diff-Ch1/fig (31).png)
+![](fig/Diff-Ch1/fig (32).png)
+![](fig/Diff-Ch1/fig (33).png)
+![](fig/Diff-Ch1/fig (34).png)
+![](fig/Diff-Ch1/fig (35).png)
+![](fig/Diff-Ch1/fig (36).png)
+![](fig/Diff-Ch1/fig (37).png)
+![](fig/Diff-Ch1/fig (38).png)
+![](fig/Diff-Ch1/fig (39).png)
+![](fig/Diff-Ch1/fig (40).png)
+![](fig/Diff-Ch1/fig (41).png)
+![](fig/Diff-Ch1/fig (42).png)
+![](fig/Diff-Ch1/fig (43).png)
+![](fig/Diff-Ch1/fig (44).png)
+![](fig/Diff-Ch1/fig (45).png)
+![](fig/Diff-Ch1/fig (46).png)
+![](fig/Diff-Ch1/fig (47).png)
+![](fig/Diff-Ch1/fig (48).png)
+
+
