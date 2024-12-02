@@ -15,9 +15,8 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Introduction
-
-## Curves
+# Curves
+## Introduction
 
 ## Parametrized Curves
 
@@ -32,11 +31,12 @@ github-repo: rstudio/bookdown-demo
 ![](fig/Diff-Ch1/fig (7).png)
 
 
-###  Regular Curves; Arc Length
+##  Regular Curves; Arc Length
 
 ![](fig/Diff-Ch1/fig (8).png)
 ![](fig/Diff-Ch1/fig (9).png)
 ![](fig/Diff-Ch1/fig (10).png)
+![](https://upload.wikimedia.org/wikipedia/commons/f/f0/Cycloid_animated_.gif)
 ![](fig/Diff-Ch1/fig (11).png)
 ![](fig/Diff-Ch1/fig (12).png)
 ![](fig/Diff-Ch1/fig (13).png)
@@ -63,7 +63,7 @@ github-repo: rstudio/bookdown-demo
 ![](fig/Diff-Ch1/fig (32).png)
 
 
-### The Vector Product in R^3
+## The Vector Product in R^3
 
 ![](fig/Diff-Ch1.1/fig (1).png)
 ![](fig/Diff-Ch1.1/fig (2).png)
@@ -80,3 +80,47 @@ github-repo: rstudio/bookdown-demo
 ![](fig/Diff-Ch1.1/fig (13).png)
 ![](fig/Diff-Ch1.1/fig (14).png)
 ![](fig/Diff-Ch1.1/fig (15).png)
+
+
+![](fig/Diff-Ch1.2/fig (1).png)
+![](fig/Diff-Ch1.2/fig (2).png)
+![](fig/Diff-Ch1.2/fig (3).png)
+![](fig/Diff-Ch1.2/fig (4).png)
+![](fig/Diff-Ch1.2/fig (5).png)
+![](fig/Diff-Ch1.2/fig (6).png)
+![](fig/Diff-Ch1.2/fig (7).png)
+![](fig/Diff-Ch1.2/fig (8).png)
+![](fig/Diff-Ch1.2/fig (9).png)
+![](fig/Diff-Ch1.2/fig (10).png)
+![](fig/Diff-Ch1.2/fig (11).png)
+![](fig/Diff-Ch1.2/fig (12).png)
+![](fig/Diff-Ch1.2/fig (13).png)
+![](fig/Diff-Ch1.2/fig (14).png)
+![](fig/Diff-Ch1.2/fig (15).png)
+![](fig/Diff-Ch1.2/fig (16).png)
+![](fig/Diff-Ch1.2/fig (17).png)
+![](fig/Diff-Ch1.2/fig (18).png)
+
+
+## The LocalTheory of Curves Parametrized by Arc Length
+
+![](fig/Diff-Ch1-5/fig (1).png)
+![](fig/Diff-Ch1-5/fig (2).png)
+![](fig/Diff-Ch1-5/fig (3).png)
+![](fig/Diff-Ch1-5/fig (4).png)
+![](fig/Diff-Ch1-5/fig (5).png)
+![](fig/Diff-Ch1-5/fig (6).png)
+![](fig/Diff-Ch1-5/fig (7).png)
+![](fig/Diff-Ch1-5/fig (8).png)
+![](fig/Diff-Ch1-5/fig (9).png)
+![](fig/Diff-Ch1-5/fig (10).png)
+![](fig/Diff-Ch1-5/fig (11).png)
+![](fig/Diff-Ch1-5/fig (12).png)
+![](fig/Diff-Ch1-5/fig (13).png)
+![](fig/Diff-Ch1-5/fig (14).png)
+![](fig/Diff-Ch1-5/fig (15).png)
+![](fig/Diff-Ch1-5/fig (16).png)
+
+
+## The Local Canonical Form
+## Global Properties of Plane Curves
